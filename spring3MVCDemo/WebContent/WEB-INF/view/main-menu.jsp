@@ -7,6 +7,8 @@
 <title>Main menu</title>
 </head>
 <body>
-<h2>Spring MVC Demo Main Menu</h2>
+<h2 align="center">Spring MVC Demo Main Menu</h2>
+<hr>
+<a href="hello/showForm">Hello World form</a>
 </body>
 </html>

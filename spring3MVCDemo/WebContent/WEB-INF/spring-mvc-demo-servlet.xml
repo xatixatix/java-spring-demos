@@ -13,7 +13,7 @@
 
 	<!-- Step 3: Add support for component scanning -->
 	<context:component-scan base-package="com.xatixatix.mvcdemo" />
-
+	<mvc:resources mapping="/resources/**" location="/resources/"></mvc:resources>
 	<!-- Step 4: Add support for conversion, formatting and validation support -->
 	<mvc:annotation-driven/>
 
