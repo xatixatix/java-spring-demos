@@ -25,12 +25,10 @@ public class TennisCoach implements Coach {
 	
 	public TennisCoach() {}
 
-	/*
 	@Autowired //constructor injection
 	public TennisCoach(FortuneService theFortuneService) {
 		fortuneService = theFortuneService;
 	}
-	*/
 	
 	/*
 	@Autowired //setter injection
