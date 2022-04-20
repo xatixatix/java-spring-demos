@@ -10,5 +10,7 @@
 <h2 align="center">Spring MVC Demo Main Menu</h2>
 <hr>
 <a href="hello/showForm">Hello World form</a>
+<br>
+<a href="user/showForm">User registration form</a>
 </body>
 </html>
